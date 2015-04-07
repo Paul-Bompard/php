@@ -1,0 +1,14 @@
+li.menu
+{
+    background-color: white;
+    position: absolute;
+    left: 25%;
+    top: 25%;
+}
+ul ul{display: none; position:absolute; left: 124px; top: -1px; margin:0px; padding: 0px; border: 1px solid grey;}
+li {list-style-type: none; position: relative; width: 120px; background-color: #E0E0E0; padding: 2px; margin: 0px}
+li:hover {background-color: #FFFF70;}
+li:hover ul.niveau2, li li:hover ul.niveau3, li li li:hover ul.niveau4 {display: block}
+li.plus {background-color: #FFFFF0; background-position:right; background-repeat: no-repeat; border-bottom: 1px solid grey;}
+li.oui {background-color: chartreuse}
+li.non {background-color: crimson}

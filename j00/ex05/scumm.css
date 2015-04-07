@@ -1,0 +1,211 @@
+body
+{
+    background-color: #505050;
+}
+.backg
+{
+    background-color: #909090;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #080808; 
+}
+.entete
+{
+    position: absolute;
+    top: 20px;
+    left: 238px;
+    width:1420px;
+    height: 137px;
+}
+.bordg
+{
+    position: absolute;
+    top: 177px;
+    left: 268px;
+    width: 140;
+    height: 425;        
+}
+.bordd
+{
+    position: absolute;
+    top: 177px;
+    left: 1488px;
+    width: 140;
+    height: 425;        
+}
+.block
+{
+    position: absolute;
+    top: 177px;
+    left: 438px;
+    width: 1020;
+    height: 582; 
+}
+#day42
+{
+    position: absolute;
+    top: 30px;
+    left: 248px;
+    height: 110;
+}
+#loupe
+{
+    position: absolute;
+    top: 30px;
+    left: 1372px;
+    width: 256;
+}
+#reload
+{
+    position: absolute;
+    top: 30px;
+    left: 1628px;
+    width: 20;
+}
+#close
+{
+    position: absolute;
+    top: 127px;
+    left: 1628px;
+}
+#arrow
+{
+    position: absolute;
+    top: 192px;
+    left: 300px;
+    width: 70
+}
+#main
+{
+    position: absolute;
+    top: 272px;
+    left: 300px;
+    height: 70;
+}
+#oeil
+{
+    position: absolute;
+    top: 347px;
+    left: 295px;
+    width: 70;
+    border: 5px solid red;
+    border-radius: 5px;
+}
+#outil
+{
+    position: absolute;
+    top: 427px;
+    left: 300px;
+    width: 70;
+}
+#chat
+{
+    position: absolute;
+    top: 507px;
+    left: 300px;
+    width: 70;
+}
+#cluster
+{
+    position: absolute;
+    top: 187px;
+    left: 448px;
+    width: 1000;
+}
+#book
+{
+    position: absolute;
+    top: 192px;
+    left: 1523px;
+    height: 96;
+}
+#towel
+{
+    position: absolute;
+    top: 298px;
+    left: 1523px;
+    width: 70;
+}
+.brick
+{
+    position: absolute;
+    top: 355px;
+    left: 1498px;
+    width: 120px;
+    height: 70;
+    background-image: url(resources/brick.jpg); 
+}
+.green
+{
+    background-color: #91FF92;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #080808; 
+    width: 520px;
+    height: 170px;
+    position: absolute;
+    top: 683px;
+    left: 193px;
+}
+p
+{
+    font-size: +16;
+    font-family: "verdana";
+    position: absolute;
+    top: -10px;
+    left: 10px;
+}
+code
+{
+    font-family: 'MS Serif', 'New York', serif;
+    font-size: 34px;
+}
+i
+{
+    font-size: +16;
+    font-family: "verdana";
+    position: absolute;
+    top: 63px;
+    left: 10px;
+}
+#ordi
+{
+    font-size: +16;
+    font-family: "verdana";
+    position: absolute;
+    top: 28px;
+    left: 10px;
+}
+#nateur
+{
+    font-size: +16;
+    font-family: "verdana";
+    position: absolute;
+    top: 28px;
+    left: 25px;
+    text-shadow: 5px 5px 5px #E84D49;
+}
+#a
+{
+    font-size: +16;
+    font-family: "verdana";
+    position: absolute;
+    top: 28px;
+    left: 117px;
+}
+.barre
+{
+    background-color: #FFFFFF;
+    width: 378px;
+    height: 17px;
+    position: absolute;
+    top: 768px;
+    left: 205px;
+    border: 2px;
+    border-style: inset;
+}
+
+.repondre {
+	margin-top: -45px;
+	height: 50px;
+	padding-bottom: 50px;
+	font-size: 30px;
+}

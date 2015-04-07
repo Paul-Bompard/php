@@ -1,0 +1,118 @@
+<style>
+table
+{
+    width: 100%;
+    height: 100%;
+}
+            .cell
+            {
+                width: 100%;
+                height: 100%;
+                overflow: hidden;
+            }
+            .right
+            {
+                text-align: right;
+            }
+            .left
+            {
+                text-align: left;
+            }
+            h2
+            {
+                height: auto;
+                margin: 2%;
+            }
+            h5
+            {
+                height: auto;
+                margin: 0%;
+            }
+            .border
+            {
+                text-align: center;
+                border:1px solid black;
+            }
+            .part
+            {
+                color: white;
+                text-align: center;
+                width: 5%;
+                height: 40%;
+            }
+            b
+            {
+                text-align: center;
+                font-size: 120%;
+            }
+            sub
+            {
+                vertical-align: -120%;
+            }
+            sup
+            {
+                vertical-align: 120%;
+                text-align: right;
+            }
+            .nm
+            {
+                background-color: #83E81B;
+                text-align: center;
+                border:1px solid black;
+                width: 200px;
+            }
+            .halo
+            {
+                background-color: #6FC7E8;
+                text-align: center; 
+                border:1px solid black;
+            }
+            .gaz
+            {
+                background-color: #CDACFF;
+                text-align: center; 
+                border:1px solid black;
+            }
+            .metalloides
+            {
+                background-color: #E8DB71;
+                text-align: center; 
+                border:1px solid black;
+            }
+            .post
+            {
+                background-color: #FFFB72;
+                text-align: center; 
+                border:1px solid black;
+            }
+            .mt
+            {
+                background-color: #FFBA01;
+                text-align: center; 
+                border:1px solid black;
+            }
+            .mal
+            {
+                background-color: #95FFD4;
+                text-align: center; 
+                border:1px solid black;
+            }
+            .ma
+            {
+                background-color: #FF8762;
+                text-align: center; 
+                border:1px solid black;
+            }
+            .l
+            {
+                background-color: #9CE891;
+                text-align: center; 
+                border:1px solid black;
+            }
+            .a
+            {
+                background-color: #FF7E23;
+                text-align: center; 
+                border:1px solid black;
+            }
+        </style>
